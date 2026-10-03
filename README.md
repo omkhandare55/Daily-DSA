@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/omkhandare55/Daily-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/omkhandare55/Daily-DSA/tree/master/0079-word-search) |
 ## Backtracking
 |  |
@@ -45,9 +46,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/omkhandare55/Daily-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/omkhandare55/Daily-DSA/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/omkhandare55/Daily-DSA/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/omkhandare55/Daily-DSA/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/omkhandare55/Daily-DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
