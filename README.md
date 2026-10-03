@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/omkhandare55/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [0633-sum-of-square-numbers](https://github.com/omkhandare55/Daily-DSA/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
 |  |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/omkhandare55/Daily-DSA/tree/master/0079-word-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/omkhandare55/Daily-DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/omkhandare55/Daily-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
