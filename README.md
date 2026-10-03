@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/omkhandare55/Daily-DSA/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/omkhandare55/Daily-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/omkhandare55/Daily-DSA/tree/master/0079-word-search) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/omkhandare55/Daily-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/omkhandare55/Daily-DSA/tree/master/0073-set-matrix-zeroes) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/omkhandare55/Daily-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/omkhandare55/Daily-DSA/tree/master/0032-longest-valid-parentheses) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/omkhandare55/Daily-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
