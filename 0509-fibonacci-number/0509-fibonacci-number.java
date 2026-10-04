@@ -1,9 +1,12 @@
 class Solution {
     public int fib(int n) {
-        if(n==0){
-            return 0;
+        if(n<=1)return n;
+        int prev2 = 0, prev =1, next=0;
+        for(int i=2;i<=n;i++){
+            next = prev+prev2;
+            prev2= prev;
+            prev = next;
         }
-        if(n==1)return 1;
-        return fib(n-1)+fib(n-2);
+        return next;
     }
 }
