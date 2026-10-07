@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/omkhandare55/Daily-DSA/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/omkhandare55/Daily-DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/omkhandare55/Daily-DSA/tree/master/0101-symmetric-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,13 +129,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/omkhandare55/Daily-DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/omkhandare55/Daily-DSA/tree/master/0101-symmetric-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/omkhandare55/Daily-DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/omkhandare55/Daily-DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/omkhandare55/Daily-DSA/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/omkhandare55/Daily-DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/omkhandare55/Daily-DSA/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
