@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/omkhandare55/Daily-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/omkhandare55/Daily-DSA/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/omkhandare55/Daily-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/omkhandare55/Daily-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/omkhandare55/Daily-DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/omkhandare55/Daily-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/omkhandare55/Daily-DSA/tree/master/0079-word-search) |
+| [0242-valid-anagram](https://github.com/omkhandare55/Daily-DSA/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/omkhandare55/Daily-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/omkhandare55/Daily-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/omkhandare55/Daily-DSA/tree/master/0856-score-of-parentheses) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/omkhandare55/Daily-DSA/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/omkhandare55/Daily-DSA/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
 | ------- |
