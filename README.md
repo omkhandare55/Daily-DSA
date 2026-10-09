@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/omkhandare55/Daily-DSA/tree/master/0031-next-permutation) |
+| [0064-minimum-path-sum](https://github.com/omkhandare55/Daily-DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/omkhandare55/Daily-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/omkhandare55/Daily-DSA/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/omkhandare55/Daily-DSA/tree/master/0088-merge-sorted-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/omkhandare55/Daily-DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/omkhandare55/Daily-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/omkhandare55/Daily-DSA/tree/master/0079-word-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/omkhandare55/Daily-DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/omkhandare55/Daily-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0064-minimum-path-sum](https://github.com/omkhandare55/Daily-DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/omkhandare55/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/omkhandare55/Daily-DSA/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/omkhandare55/Daily-DSA/tree/master/0678-valid-parenthesis-string) |
