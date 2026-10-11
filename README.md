@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/omkhandare55/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/omkhandare55/Daily-DSA/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/omkhandare55/Daily-DSA/tree/master/0633-sum-of-square-numbers) |
+| [1137-n-th-tribonacci-number](https://github.com/omkhandare55/Daily-DSA/tree/master/1137-n-th-tribonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/omkhandare55/Daily-DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -78,11 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/omkhandare55/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/omkhandare55/Daily-DSA/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/omkhandare55/Daily-DSA/tree/master/0678-valid-parenthesis-string) |
+| [1137-n-th-tribonacci-number](https://github.com/omkhandare55/Daily-DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/omkhandare55/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/omkhandare55/Daily-DSA/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/omkhandare55/Daily-DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
