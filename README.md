@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/omkhandare55/Daily-DSA/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/omkhandare55/Daily-DSA/tree/master/0031-next-permutation) |
 | [0064-minimum-path-sum](https://github.com/omkhandare55/Daily-DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/omkhandare55/Daily-DSA/tree/master/0073-set-matrix-zeroes) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/omkhandare55/Daily-DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/omkhandare55/Daily-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/omkhandare55/Daily-DSA/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/omkhandare55/Daily-DSA/tree/master/0560-subarray-sum-equals-k) |
