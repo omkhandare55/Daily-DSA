@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/omkhandare55/Daily-DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/omkhandare55/Daily-DSA/tree/master/0101-symmetric-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/omkhandare55/Daily-DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/omkhandare55/Daily-DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/omkhandare55/Daily-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/omkhandare55/Daily-DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/omkhandare55/Daily-DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/omkhandare55/Daily-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/omkhandare55/Daily-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/omkhandare55/Daily-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/omkhandare55/Daily-DSA/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/omkhandare55/Daily-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/omkhandare55/Daily-DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/omkhandare55/Daily-DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
