@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/omkhandare55/Daily-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/omkhandare55/Daily-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/omkhandare55/Daily-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/omkhandare55/Daily-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/omkhandare55/Daily-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/omkhandare55/Daily-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2965-find-missing-and-repeated-values](https://github.com/omkhandare55/Daily-DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/omkhandare55/Daily-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/omkhandare55/Daily-DSA/tree/master/0633-sum-of-square-numbers) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/omkhandare55/Daily-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/omkhandare55/Daily-DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/omkhandare55/Daily-DSA/tree/master/0242-valid-anagram) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/omkhandare55/Daily-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
 | ------- |
