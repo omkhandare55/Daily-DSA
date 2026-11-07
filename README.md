@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/omkhandare55/Daily-DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/omkhandare55/Daily-DSA/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/omkhandare55/Daily-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/omkhandare55/Daily-DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/omkhandare55/Daily-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/omkhandare55/Daily-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/omkhandare55/Daily-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
