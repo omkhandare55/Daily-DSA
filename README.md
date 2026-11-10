@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/omkhandare55/Daily-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/omkhandare55/Daily-DSA/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/omkhandare55/Daily-DSA/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/omkhandare55/Daily-DSA/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/omkhandare55/Daily-DSA/tree/master/0301-remove-invalid-parentheses) |
