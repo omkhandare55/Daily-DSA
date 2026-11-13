@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/omkhandare55/Daily-DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/omkhandare55/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkhandare55/Daily-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/omkhandare55/Daily-DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/omkhandare55/Daily-DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/omkhandare55/Daily-DSA/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/omkhandare55/Daily-DSA/tree/master/0678-valid-parenthesis-string) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/omkhandare55/Daily-DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/omkhandare55/Daily-DSA/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/omkhandare55/Daily-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/omkhandare55/Daily-DSA/tree/master/0338-counting-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/omkhandare55/Daily-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/omkhandare55/Daily-DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Pigeonhole Principle
