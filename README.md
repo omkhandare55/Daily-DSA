@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/omkhandare55/Daily-DSA/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/omkhandare55/Daily-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/omkhandare55/Daily-DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/omkhandare55/Daily-DSA/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/omkhandare55/Daily-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/omkhandare55/Daily-DSA/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/omkhandare55/Daily-DSA/tree/master/0633-sum-of-square-numbers) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/omkhandare55/Daily-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/omkhandare55/Daily-DSA/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/omkhandare55/Daily-DSA/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/omkhandare55/Daily-DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/omkhandare55/Daily-DSA/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/omkhandare55/Daily-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/omkhandare55/Daily-DSA/tree/master/0392-is-subsequence) |
